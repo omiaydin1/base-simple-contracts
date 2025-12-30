@@ -32,3 +32,9 @@ An extended version of Ping that adds a reset function to clear the counter.
 ## Notes
 
 These contracts are designed for educational and onchain activity demonstration purposes.
+
+## Future Improvements
+
+- Add events for state changes
+- Introduce access control examples
+- Demonstrate contract-to-contract interaction
