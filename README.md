@@ -38,3 +38,8 @@ These contracts are designed for educational and onchain activity demonstration 
 - Add events for state changes
 - Introduce access control examples
 - Demonstrate contract-to-contract interaction
+- ## Base Network Note
+
+This repository can be experimented with on Base mainnet
+for educational and testing purposes.
+
